@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JoKenPo</string>
+    <string name="sair">Sair</string>
+    <string name="sobre">Sobre</string>
+    <string name="ranking">Ranking</string>
+    <string name="jogar">Jogar</string>
+    <string name="escolha_sua_jogada">Escolha Sua Jogada</string>
+    <string name="sua_escolha">Sua escolha</string>
+    <string name="computador">Computador</string>
+    <string name="voc_venceu">Você venceu!</string>
+    <string name="voc_ganhou_1_ponto">Você ganhou 1 ponto!</string>
+    <string name="jogar_novamente">Jogar novamente</string>
+
+</resources>
